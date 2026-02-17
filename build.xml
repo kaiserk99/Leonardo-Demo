@@ -4,10 +4,6 @@
 			<include name="*.jar" />
 		</fileset>
 	</path>
-
-//Add documentation
-	
-//Changes to be added here
 	
 
 	<target name="compile">
@@ -59,6 +55,7 @@
 	</target>
 
 </project>
+
 
 
 
