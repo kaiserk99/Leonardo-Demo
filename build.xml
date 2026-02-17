@@ -7,9 +7,7 @@
 
 //Add documentation
 
-	<target name="clean">
-		<delete dir="build" />
-	</target>
+	
 
 	<target name="compile">
 		<mkdir dir="build/classes" />
@@ -60,4 +58,5 @@
 	</target>
 
 </project>
+
 
