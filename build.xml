@@ -16,7 +16,6 @@
 		<javac srcdir="src" destdir="build/classes" classpathref="classpath" includeantruntime="false" />
 	</target>
 
-Additional data
 
 	<target name="jar">
 		<mkdir dir="build/jar" />
@@ -59,4 +58,5 @@ Additional data
 			<xml destfile="reports-jacoco/report.xml" />
 		</jacoco:report>
 	</target>
+
 </project>
